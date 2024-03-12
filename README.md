@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning by following a Mehta et al., "A high-bias, low-variance introduction to Machine Learning for physicists".
+🌱 I’m currently studying Machine Learning techniques by following a paper written by Mehta et al. entitled "A high-bias, low-variance introduction to Machine Learning for physicists".
 
 <!-- ![Hydroforth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydroforth&show_icons=true&theme=transparent) -->
 
