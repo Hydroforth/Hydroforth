@@ -1,5 +1,4 @@
-![Header](https://drive.google.com/file/d/1ZCp8aEokUMBlqn4e5ok-4kx0WswGRDxF/view?usp=drive_link)
-
+![Header](https://github.com/hydroforth/hydroforth/blob/main/image.jpg?raw=true)
 
 🌱 I’m currently self-studying machine learning concepts by following along a paper written by Mehta et al. entitled "A high-bias, low-variance introduction to Machine Learning for physicists". You can find the paper here: https://arxiv.org/abs/1803.08823.
 
