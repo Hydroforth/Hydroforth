@@ -1,6 +1,6 @@
 ![Header](https://github.com/hydroforth/hydroforth/blob/main/banner.png?raw=true)
 
-🌱 I’m currently self-studying machine learning concepts by following along a paper written by Mehta et al. entitled "A high-bias, low-variance introduction to Machine Learning for physicists". You can find the paper here: https://arxiv.org/abs/1803.08823.
+🌱 I’m currently self-studying machine learning through a paper by Mehta et al. entitled "A high-bias, low-variance introduction to Machine Learning for physicists". Link here: https://arxiv.org/abs/1803.08823.
 
 <!-- ![Hydroforth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydroforth&show_icons=true&theme=transparent) -->
 
