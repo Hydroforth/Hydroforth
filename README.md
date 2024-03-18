@@ -1,6 +1,7 @@
 ![Header](https://github.com/hydroforth/hydroforth/blob/main/banner.png?raw=true)
 
 🌱 I’m currently self-studying machine learning through a paper by Mehta et al. entitled [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823).
+
 🚀 Also picking up Java through University of Helsinki's MOOC and Coursera's Algorithms, Parts [I](https://www.coursera.org/learn/algorithms-part1) and [II](https://www.coursera.org/learn/algorithms-part2).
 
 
