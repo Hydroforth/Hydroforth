@@ -3,8 +3,8 @@
 I'm currently ...
 - 🔬 researching quantum algorithms as part of the Quantum Coalition's [QRISE 2024](https://www.quantumcoalition.io/).
 - 🌱 self-studying machine learning through a paper by Mehta et al. entitled [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823).
-- 🚀 picking up Java through University of Helsinki's [MOOC](https://java-programming.mooc.fi/) and Coursera's Algorithms, Parts [I](https://www.coursera.org/learn/algorithms-part1) and [II](https://www.coursera.org/learn/algorithms-part2).
-
+- 🚀 pursuing an Associate Data Scientist certification on [DataCamp](https://www.datacamp.com/portfolio/johnsamuelsuico).
+- 🔭 picking up Java through the University of Helsinki's [MOOC](https://java-programming.mooc.fi/) and Coursera's Algorithms, Parts [I](https://www.coursera.org/learn/algorithms-part1) and [II](https://www.coursera.org/learn/algorithms-part2).
 
 
 <!-- ![Hydroforth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydroforth&show_icons=true&theme=transparent) -->
