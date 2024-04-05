@@ -7,24 +7,15 @@ I'm currently ...
 - 🔭 picking up Java through the University of Helsinki's [MOOC](https://java-programming.mooc.fi/) and Coursera's Algorithms, Parts [I](https://www.coursera.org/learn/algorithms-part1) and [II](https://www.coursera.org/learn/algorithms-part2).
 
 🛠️ Tech Stack
-![numpy]({https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-})
-![pandas]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-})
-![scipy]({https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white
-})
-![sklearn]({https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-})
-![conda]({https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
-})
-![git]({https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-})
-![mysql]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-})
-![tableau]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-})
-![latex]({https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
-})
+![numpy]({https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white})
+![pandas]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white})
+![scipy]({https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white})
+![sklearn]({https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white})
+![conda]({https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white})
+![git]({https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white})
+![mysql]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+![tableau]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
+![latex]({https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white})
 
 
 
