@@ -6,7 +6,7 @@ I'm currently ...
 - 🚀 pursuing an Associate Data Scientist certification on [DataCamp](https://www.datacamp.com/portfolio/johnsamuelsuico).
 - 🔭 picking up Java through the University of Helsinki's [MOOC](https://java-programming.mooc.fi/) and Coursera's Algorithms, Parts [I](https://www.coursera.org/learn/algorithms-part1) and [II](https://www.coursera.org/learn/algorithms-part2).
 
-🛠️ Tech Stack <br>
+🛠️ Tech Stack <br> <br>
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
